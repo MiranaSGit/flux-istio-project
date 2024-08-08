@@ -4,4 +4,3 @@ resources:
   - authority.yaml
   - servicex.yaml
   - servicey.yaml
-  - namespaces.yaml
